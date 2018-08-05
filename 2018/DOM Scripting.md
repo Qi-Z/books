@@ -16,6 +16,8 @@
 ```
 
 # Chapter 3: The Document Object Model
+Almost everthing a node
+
 ```
 * getElementById
 * getElementsByTagName
@@ -44,6 +46,7 @@
 * One file
 * JS separate
 * Error Handling
+* Library like Modernizr can be used for compatibility check
 
 # Chapter 6: The Image Gallery Revisited
 
@@ -90,11 +93,17 @@
 ```
 
 # Chapter 11: HTML5
+Read this chapter if you want to create custom video player
 ```
 * semantics
 * <canvas>
 * <video>
+* videoHeight, videoWidth
 * <audio>
+* <form> new elements, new attributes, new input types
+* new input types: email, url, date, time, number, range, search, tel, color, etc
+* new attributes: autocomplete, autofocus, form, min, max, step, pattern, placeholder, required, etc
+* <input form="form1"> form used to specify which form the input belongs to
 ```
 
 
